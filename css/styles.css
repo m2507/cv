@@ -1,0 +1,37 @@
+body {
+  background-color: #f6f578;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  border-style: ridge;
+  border-color: black;
+  border-width: 4px;
+  box-shadow: 15px 15px 15px grey;
+  width: 75%;
+}
+img{
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  box-shadow: 15px 15px 15px white;
+  width: 75%;
+}
+h2{
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  box-shadow: 15px 15px 15px grey;
+  width: 10%;
+}
+p{
+text-align: center;
+}
+tbody{
+font-size: 15px;
+}
